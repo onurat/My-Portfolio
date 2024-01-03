@@ -1,4 +1,6 @@
 import { useEffect, useState } from "react";
+import portfolio from "../Data/Portfolio";
+
 import ValidImage from "./ValidImage";
 
 const Detail = ({ id }) => {
