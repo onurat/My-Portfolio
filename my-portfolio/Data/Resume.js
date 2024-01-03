@@ -10,7 +10,7 @@ const experience = [
     company: "Autoglass",
     time: "Jan 2021 - Aug 2022",
     location: "London",
-    points: ["Jan 2021 - Aug 2022", "Jan 2021 - Aug 2022"],
+    points: ["Conducted customer repairs, windscreen replacements, and other glass-related tasks.", "Managed time efficiently and demonstrated proficiency in sales-related applications."],
     links: [],
   },
   {
@@ -18,7 +18,7 @@ const experience = [
     company: "North Middlesex Hospital",
     time: "Jun 2021 - Sep 2021",
     location: "London",
-    points: ["Jun 2021 - Sep 2021", "Jun 2021 - Sep 2021"],
+    points: ["Prepared pharmaceutical products, including chemotherapy.", "Ensured aseptic unit cleanliness and compliance with COSHH and RIDDOR standards."],
     links: [],
   },
   {
@@ -26,7 +26,7 @@ const experience = [
     company: "Homerton University Hospital",
     time: "Nov 2020 - May 2021",
     location: "London",
-    points: ["Nov 2020 - May 2021", "Nov 2020 - May 2021"],
+    points: ["Successfully managed a fast-paced workload, working both individually and in teams.", "Oversaw picking and packing of drugs, adhering to good manufacturing practices."],
     links: [],
   },
   {
@@ -34,7 +34,7 @@ const experience = [
     company: "University College Hospital",
     time: "Jan 2020 – Aug 2020",
     location: "London",
-    points: ["Jan 2020 – Aug 2020", "Jan 2020 – Aug 2020"],
+    points: ["Participated in the transportation of pharmaceutical products.", "Utilised the EPIC system for order picking and distribution to clinical areas, including the ICU during the pandemic."],
     links: [],
   },
   {
@@ -42,7 +42,7 @@ const experience = [
     company: "University College Hospital",
     time: "Mar 2019 - Sep 2019",
     location: "London",
-    points: ["Mar 2019 - Sep 2019", "Mar 2019 - Sep 2019"],
+    points: ["Worked in a cancer center production unit following strict GMP guidelines. ", "Involved in environmental monitoring and ensured aseptic medication preparation for patients."],
     links: [],
   },
   {

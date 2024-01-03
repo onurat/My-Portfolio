@@ -28,11 +28,6 @@ const Header = () => {
               </a>
             </li>
             <li>
-              <a className="nav-link" href="#portfolio">
-                Portfolio
-              </a>
-            </li>
-            <li>
               <a className="nav-link" href="#contact">
                 Contact
               </a>
@@ -42,15 +37,6 @@ const Header = () => {
         </nav>
         <div className="social-links">
           <a
-            href={contact_links.twitter}
-            target="_blank"
-            rel="noreferrer"
-            className="twitter"
-            aria-label="twitter"
-          >
-            <i className="bi bi-twitter" />
-          </a>
-          <a
             href={contact_links.github}
             target="_blank"
             rel="noreferrer"
@@ -58,15 +44,6 @@ const Header = () => {
             aria-label="github"
           >
             <i className="bi bi-github" />
-          </a>
-          <a
-            href={contact_links.instagram}
-            target="_blank"
-            rel="noreferrer"
-            className="instagram"
-            aria-label="instagram"
-          >
-            <i className="bi bi-instagram" />
           </a>
           <a
             href={contact_links.linkedin}

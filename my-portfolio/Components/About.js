@@ -32,11 +32,6 @@ const About = () => {
                 <ul>
                   <li>
                     <i className="bi bi-chevron-right" />{" "}
-                    <strong>Website:</strong>{" "}
-                    <span>{contact_links.website}</span>
-                  </li>
-                  <li>
-                    <i className="bi bi-chevron-right" />{" "}
                     <strong>Phone:</strong> <span>{contact_links.phone}</span>
                   </li>
                   <li>
@@ -50,10 +45,6 @@ const About = () => {
                   <li>
                     <i className="bi bi-chevron-right" /> <strong>Age:</strong>{" "}
                     <span>{about.age}</span>
-                  </li>
-                  <li>
-                    <i className="bi bi-chevron-right" />{" "}
-                    <strong>Degree:</strong> <span>{about.degree}</span>
                   </li>
                   <li>
                     <i className="bi bi-chevron-right" />{" "}

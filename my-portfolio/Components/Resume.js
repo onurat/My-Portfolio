@@ -3,7 +3,7 @@ import contact_links from "../Data/Contact";
 import resume from "../Data/Resume";
 
 const Resume = () => {
-  const { education, exams, skills, experience } = resume;
+  const { experience } = resume;
 
   return (
     <section id="resume" className="resume" style={{ overflowX: "auto" }}>
@@ -13,7 +13,7 @@ const Resume = () => {
           <p>
             Check My Resume{" "}
             <a
-              href="/Resume.pdf"
+              href="https://online.flippingbook.com/view/718580435/"
               target="_blank"
               rel="noreferrer"
               style={{ color: "#18d26e" }}
@@ -65,37 +65,6 @@ const Resume = () => {
                     </li>
                   ))}
                 </ul>
-              </div>
-            ))}
-          </div>
-          <div className="col-lg-6">
-            <h3 className="resume-title">Education</h3>
-            {Array.from(education).map((ed, i) => (
-              <div className="resume-item" key={i}>
-                <h4>{ed.title}</h4>
-                <h5>{ed.time}</h5>
-                <p>
-                  <em>{ed.from}</em>
-                </p>
-                <p>{ed.result}</p>
-              </div>
-            ))}
-            <h3 className="resume-title">Skills</h3>
-            {Array.from(skills).map((sk, i) => (
-              <div className="resume-item" key={i}>
-                <h4>{sk.title}</h4>
-                {sk.items.map((it, j) => (
-                  <h5 style={{ margin: "5px" }} key={j}>
-                    {it}
-                  </h5>
-                ))}
-              </div>
-            ))}
-            <h3 className="resume-title">Exams</h3>
-            {Array.from(exams).map((ex, i) => (
-              <div className="resume-item" key={i}>
-                <h4>{ex.title}</h4>
-                <h5>{ex.result}</h5>
               </div>
             ))}
           </div>

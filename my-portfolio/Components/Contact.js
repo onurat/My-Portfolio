@@ -75,15 +75,6 @@ const Contact = () => {
               <h3>Social Profiles</h3>
               <div className="social-links">
                 <a
-                  href={contact_links.twitter}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="twitter"
-                  aria-label="twitter"
-                >
-                  <i className="bi bi-twitter" />
-                </a>
-                <a
                   href={contact_links.github}
                   target="_blank"
                   rel="noreferrer"
@@ -91,15 +82,6 @@ const Contact = () => {
                   aria-label="github"
                 >
                   <i className="bi bi-github" />
-                </a>
-                <a
-                  href={contact_links.instagram}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="instagram"
-                  aria-label="instagram"
-                >
-                  <i className="bi bi-instagram" />
                 </a>
                 <a
                   href={contact_links.linkedin}
