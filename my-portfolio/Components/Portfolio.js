@@ -69,6 +69,7 @@ const Portfolio = () => {
                         className="portfolio-lightbox"
                         title={project.name}
                         target={imageUrls[i] ? "_self" : "_blank"}
+                        rel="noreferrer"
                       >
                         <i className="bx bx-plus" />
                       </a>

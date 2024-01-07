@@ -7,7 +7,7 @@ const Header = () => {
       <div className="container">
         <h1>{about.name}</h1>
         <h2 className="typewriter">
-          I'm <span id="mainSpan" data-text={about.about}></span>
+          I&apos;m <span id="mainSpan" data-text={about.about}></span>
           <span id="cursorSpan"></span>
         </h2>
         <nav id="navbar" className="navbar">
