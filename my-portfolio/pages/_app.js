@@ -19,10 +19,10 @@ function MyApp({ Component, pageProps }) {
         <meta name="description" content={about.longBio} />
         <meta
           name="keywords"
-          content="MNIT Jaipur, Saksham Bindal, CSE, B.Tech, Software Developer, Website Developer, App Developer, Flutter Developer, Next JS, React JS"
+          content="Onur Atas, Software Developer, Website Developer, App Developer, Next JS, React JS"
         />
         <link rel="manifest" href="/manifest.json" />
-        <title>Saksham Bindal</title>
+        <title>Onur Atas</title>
       </Head>
       <Component {...pageProps} />
     </>
