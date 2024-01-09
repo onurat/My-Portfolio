@@ -82,14 +82,14 @@ export default async function sendMail(req, res) {
       });
 
       let mailOptions = {
-        from: `"Saksham Bindal" <${mailUser}>`,
+        from: `"Onur Atas" <${mailUser}>`,
         to: email,
         subject: "Thanks for contact",
         html: thanks,
       };
 
       let mailOptions2 = {
-        from: `"Saksham Bindal" <${mailUser}>`,
+        from: `"Onur Atas" <${mailUser}>`,
         to: mailUser,
         subject: subject,
         html: `Message from ${name} ${email}<br/><br/><b>${message}</b>`,
