@@ -39,7 +39,7 @@ const Resume = () => {
               </ul>
               <p />
             </div>
-            <h3 className="resume-title">Experience</h3>
+            <h3 className="resume-title">Projects</h3>
             {Array.from(experience).map((ex, i) => (
               <div className="resume-item" key={i}>
                 <h4>{ex.company}</h4>
