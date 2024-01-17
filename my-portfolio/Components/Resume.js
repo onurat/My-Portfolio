@@ -13,7 +13,7 @@ const Resume = () => {
           <p>
             Check My Resume{" "}
             <a
-              href="https://online.flippingbook.com/view/772271695/"
+              href="https://docs.google.com/document/d/1LesrDpfW8vCbihlFS--up1BLF3t9lbS5jWAt3JiYO6c/edit"
               target="_blank"
               rel="noreferrer"
               style={{ color: "#18d26e" }}
