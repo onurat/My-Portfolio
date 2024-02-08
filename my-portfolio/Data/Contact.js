@@ -5,7 +5,7 @@ const contact_links = {
   linkedin: "https://www.linkedin.com/in/onur-atas-bb9a29251/",
   phone: "07821263765",
   email: "onuratas97@gmail.com",
-  website: "https://www.linkedin.com/in/onur-atas-bb9a29251/",
+  website: "https://my-portfolio-server-1glu.onrender.com/",
 };
 
 export default contact_links;
