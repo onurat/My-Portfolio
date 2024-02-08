@@ -13,7 +13,7 @@ const Resume = () => {
           <p>
             Check My Resume{" "}
             <a
-              href="https://docs.google.com/document/d/1LesrDpfW8vCbihlFS--up1BLF3t9lbS5jWAt3JiYO6c/edit"
+              href="https://docs.google.com/document/d/1QNzo9XgzEm_o2PGPxwhIa_V-T04zHL_B48Xqk8KYU8I/edit"
               target="_blank"
               rel="noreferrer"
               style={{ color: "#18d26e" }}
