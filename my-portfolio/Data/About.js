@@ -22,7 +22,7 @@ const about = {
   about: "Full-Stack Developer",
   bio: "I am a versatile software engineer with a passion for creative problem-solving",
   longBio:
-    "A software engineer skilled in React, JavaScript, Python, SQL, Node.js, CSS, Bootstrap, HTML, YOLOv8, Kaggle, Roboflow and Figma. I bring an adaptable and innovative mindset to every project. This diversity allows me to creatively approach problem-solving, making a meaningful impact across different scopes. I'm eager to connect with like-minded professionals passionate about Software engineering.",
+    "A software engineer skilled in React, JavaScript, AWS, SQL, Node.js, CSS, Bootstrap, HTML, YOLOv8, Kaggle, Roboflow and Figma. I bring an adaptable and innovative mindset to every project. This diversity allows me to creatively approach problem-solving, making a meaningful impact across different scopes. I'm eager to connect with like-minded professionals passionate about Software engineering.",
   birthday,
   city: "London",
   age: year,
